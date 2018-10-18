@@ -1,0 +1,12 @@
+.toggle {
+  width: 32px;
+  height: 32px;
+  border: 1px solid black;
+  margin-right: 5px;
+  margin-left: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+.toggle.active {
+  background-color: black;
+}
